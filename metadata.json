@@ -1,0 +1,6 @@
+{
+  "name": "Selasar Kopi Salatiga",
+  "description": "Kedai kopi modern dan ruang nugas favorit mahasiswa di Salatiga. Suasana tenang, colokan di setiap meja, Wi-Fi kencang, dan harga ramah kantong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
